@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/shaders/texture.frag</file>
+        <file>assets/shaders/texture.vert</file>
+        <file>assets/models/cube.dae</file>
+        <file>assets/models/cube.png</file>
+        <file>assets/shaders/lightless.frag</file>
+        <file>assets/shaders/lightless.vert</file>
+        <file>assets/models/colors.png</file>
+        <file>assets/models/tank.dae</file>
+        <file>assets/models/ground.dae</file>
+        <file>assets/models/wall.dae</file>
+    </qresource>
+</RCC>
